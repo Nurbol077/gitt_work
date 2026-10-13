@@ -1,2 +1,1 @@
-print('Asan')
-print('Uson')
+"""START_PROJECT"""
