@@ -1,1 +1,2 @@
 print('Alinur')
+print('Gojonazarov')
